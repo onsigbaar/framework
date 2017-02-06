@@ -2,7 +2,7 @@
 
 return [
       'source' => [
-            'root'            => 'angular',
+            'root'            => 'components',
             'page'            => 'app/pages',
             'components'      => 'app/components',
             'directives'      => 'directives',
