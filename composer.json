@@ -22,7 +22,9 @@
     },
     "autoload": {
         "classmap": [
-            "database"
+            "app",
+            "database",
+            "workbench"
         ],
         "psr-4": {
             "App\\": "app/"
