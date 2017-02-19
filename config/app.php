@@ -185,6 +185,9 @@ return [
         // Components
         Consigliere\Components\ServiceProvider::class,
 
+        // 3rd party
+        JeroenG\Packager\PackagerServiceProvider::class,
+
     ],
 
     /*
