@@ -9,7 +9,7 @@ class AngularController extends Controller
 {
     public function serveApp()
     {
-        return view('welcome');
+        return view('index');
     }
 
     public function unsupported()
