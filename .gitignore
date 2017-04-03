@@ -1,11 +1,11 @@
+/bower_components
 /vendor
 /node_modules
 Homestead.yaml
 Homestead.json
 .env
-/bower_components
-public/js
-public/css
-public/build
-public/views
+/public/js
+/public/css
+/public/build
+/public/views
 /packages/
