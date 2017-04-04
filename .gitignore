@@ -12,4 +12,5 @@ Homestead.yaml
 /public/css
 /public/build
 /public/views
+/public/service-worker.js
 /packages
