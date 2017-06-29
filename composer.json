@@ -12,7 +12,7 @@
         "laravelangular/generators": "2.7.*",
         "irazasyed/jwt-auth-guard": "^1.0",
         "barryvdh/laravel-cors": "^0.8.2",
-        "onsigbaar/foundation": "0.1.*"
+        "onsigbaar/foundation": "0.3.*"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
