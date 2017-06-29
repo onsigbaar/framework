@@ -1,10 +1,10 @@
 {
-  "name"           : "onsigbaar",
-  "version"        : "0.1.0",
+  "name"           : "onsigbaar-fw",
+  "version"        : "0.2.0",
   "private"        : true,
   "scripts"        : {
-    "prod": "gulp --production",
-    "dev" : "gulp watch"
+    "prod"              : "gulp --production",
+    "dev"               : "gulp watch"
   },
   "devDependencies": {
     "babel-core"                     : "^6.16.0",
