@@ -1,3 +1,13 @@
+## onsigbaar/framework
+---
+
+Laravel framework using modular/ component approach. Design for enterprise application or as a RESTful backend api for single page application/ progressive web application.
+
+[Components](https://github.com/onsigbaar/components)
+[Example 1](https://github.com/gabootsoft/gaboot)
+
+---
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
