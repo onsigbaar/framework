@@ -1,6 +1,6 @@
 {
   "name"           : "onsigbaar-fw",
-  "version"        : "0.5",
+  "version"        : "0.5.5",
   "private"        : true,
   "scripts"        : {
     "prod"              : "gulp --production",
