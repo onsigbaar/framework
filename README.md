@@ -6,6 +6,7 @@ Laravel framework using modular/ component approach for enterprise application o
 [Example 1](https://github.com/gabootsoft/gaboot)
 
 [Components](https://github.com/onsigbaar/components)
+
 ---
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
