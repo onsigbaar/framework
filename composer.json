@@ -21,7 +21,7 @@
         "classmap": [
             "database/seeds",
             "database/factories",
-            "app",
+            "api",
             "packages"
         ],
         "psr-4": {
