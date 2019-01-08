@@ -1451,16 +1451,16 @@
         },
         {
             "name": "onsigbaar/components",
-            "version": "v0.6.4",
+            "version": "v0.6.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/onsigbaar/components.git",
-                "reference": "06e43df570f2db2d9565d5dcb0b562007b960d4b"
+                "reference": "e74f555006e3e740581168ed6a22070c8649eed3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/onsigbaar/components/zipball/06e43df570f2db2d9565d5dcb0b562007b960d4b",
-                "reference": "06e43df570f2db2d9565d5dcb0b562007b960d4b",
+                "url": "https://api.github.com/repos/onsigbaar/components/zipball/e74f555006e3e740581168ed6a22070c8649eed3",
+                "reference": "e74f555006e3e740581168ed6a22070c8649eed3",
                 "shasum": ""
             },
             "require": {
@@ -1515,7 +1515,7 @@
                 "components",
                 "onsigbaar"
             ],
-            "time": "2018-10-24T10:09:54+00:00"
+            "time": "2019-01-07T03:36:48+00:00"
         },
         {
             "name": "onsigbaar/foundation",
